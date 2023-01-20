@@ -1,5 +1,5 @@
 # Bus Reservation Management System
-## Project P0 Capstone Project First
+## Project P0 Capstone Project
 
 #### Bus Reservation Management System is the system through which user can book tickets online from any location. User can even cancel booked tickets.
 #### Programming language used : Java
