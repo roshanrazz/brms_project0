@@ -1,0 +1,3392 @@
+2023-01-18 22:35:45 INFO  MenuApp:24 - ########## Welcome to Bus Reservation Management System #########
+  2023-01-18 22:35:45 INFO  MenuApp:27 - 
+Enter your choice : 
+  2023-01-18 22:38:22 DEBUG MenuApp:24 - ########## Welcome to Bus Reservation Management System #########
+  2023-01-18 22:38:22 INFO  MenuApp:27 - 
+Enter your choice : 
+  2023-01-18 22:40:43 DEBUG MenuApp:24 - ########## Welcome to Bus Reservation Management System #########
+  2023-01-18 22:40:43 INFO  MenuApp:27 - 
+Enter your choice : 
+  2023-01-18 22:52:02 DEBUG MenuApp:24 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 22:52:02 INFO  MenuApp:27 - 
+Enter your choice : 
+ 2023-01-18 23:34:40 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:34:40 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:34:40 INFO  Menu:36 - Enter Username : 
+ 2023-01-18 23:34:51 INFO  Menu:38 - Enter Password : 
+ 2023-01-18 23:34:59 INFO  Menu:46 - 
+Logged in Successfully
+ 2023-01-18 23:34:59 INFO  Menu:48 - 
+ 2023-01-18 23:34:59 INFO  Menu:27 - welcome to admin panel
+ 2023-01-18 23:36:15 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:36:15 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:36:15 INFO  Menu:36 - Enter Username : 
+ 2023-01-18 23:36:18 INFO  Menu:38 - Enter Password : 
+ 2023-01-18 23:36:23 INFO  Menu:46 - 
+Logged in Successfully
+ 2023-01-18 23:36:23 INFO  Menu:48 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-18 23:36:23 INFO  Menu:27 - welcome to admin panel
+ 2023-01-18 23:40:30 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:40:30 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:40:30 INFO  Menu:38 - Enter Username : 
+ 2023-01-18 23:40:35 INFO  Menu:40 - Enter Password : 
+ 2023-01-18 23:41:46 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:41:46 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:41:46 INFO  Menu:38 - Enter Username : 
+ 2023-01-18 23:41:49 INFO  Menu:40 - Enter Password : 
+ 2023-01-18 23:41:51 INFO  Menu:54 - Invalid Username or Password
+ 2023-01-18 23:42:01 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:42:01 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:42:01 INFO  Menu:38 - Enter Username : 
+ 2023-01-18 23:42:03 INFO  Menu:40 - Enter Password : 
+ 2023-01-18 23:42:09 INFO  Menu:48 - 
+Logged in Successfully
+ 2023-01-18 23:42:09 INFO  Menu:50 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-18 23:42:09 INFO  Menu:27 - welcome to admin panel
+ 2023-01-18 23:42:09 INFO  Menu:29 - \n1. Add Route\n2. Delete Route\n3. Update Route 4. Get Particular Route . Get All Routes
+ 2023-01-18 23:44:54 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:44:54 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:44:54 INFO  Menu:38 - Enter Username : 
+ 2023-01-18 23:44:56 INFO  Menu:40 - Enter Password : 
+ 2023-01-18 23:45:04 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:45:04 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:45:04 INFO  Menu:38 - Enter Username : 
+ 2023-01-18 23:45:06 INFO  Menu:40 - Enter Password : 
+ 2023-01-18 23:45:12 INFO  Menu:54 - 
+Invalid Username or Password
+ 2023-01-18 23:45:39 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:45:39 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:45:39 INFO  Menu:38 - Enter Username : 
+ 2023-01-18 23:45:43 INFO  Menu:40 - Enter Password : 
+ 2023-01-18 23:45:49 INFO  Menu:48 - 
+Logged in Successfully
+ 2023-01-18 23:45:49 INFO  Menu:50 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-18 23:45:49 INFO  Menu:27 - welcome to admin panel
+ 2023-01-18 23:45:49 INFO  Menu:29 - \n1. Add Route\n2. Delete Route\n3. Update Route 4. Get Particular Route . Get All Routes
+ 2023-01-18 23:46:22 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:46:22 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:46:22 INFO  Menu:27 - welcome to admin panel
+ 2023-01-18 23:46:22 INFO  Menu:29 - \n1. Add Route\n2. Delete Route\n3. Update Route 4. Get Particular Route . Get All Routes
+ 2023-01-18 23:46:38 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:46:38 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:46:38 INFO  Menu:27 - welcome to admin panel
+ 2023-01-18 23:46:38 INFO  Menu:29 - 
+1. Add Route\n2. Delete Route\n3. Update Route 4. Get Particular Route . Get All Routes
+ 2023-01-18 23:46:55 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:46:55 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:46:55 INFO  Menu:27 - welcome to admin panel
+ 2023-01-18 23:46:55 INFO  Menu:29 - 
+1. Add Route
+2. Delete Route
+3. Update Route 4. Get Particular Route . Get All Routes
+ 2023-01-18 23:47:16 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:47:16 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:47:16 INFO  Menu:27 - welcome to admin panel
+ 2023-01-18 23:47:16 INFO  Menu:29 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes
+ 2023-01-18 23:55:34 INFO  Menu:21 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-18 23:55:34 INFO  Menu:22 - Admin login Panel
+ 2023-01-18 23:55:34 INFO  Menu:27 - welcome to admin panel
+ 2023-01-18 23:55:34 INFO  Menu:29 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-18 23:55:34 INFO  Menu:31 - 
+Enter your choice : 
+ 2023-01-19 00:14:32 INFO  Menu:190 - Enter Username : 
+ 2023-01-19 00:14:36 INFO  Menu:192 - Enter Password : 
+ 2023-01-19 00:14:42 INFO  Menu:206 - 
+Invalid Username or Password
+ 2023-01-19 00:14:52 INFO  Menu:190 - Enter Username : 
+ 2023-01-19 00:15:19 INFO  Menu:190 - Enter Username : 
+ 2023-01-19 00:15:23 INFO  Menu:192 - Enter Password : 
+ 2023-01-19 00:15:27 INFO  Menu:200 - 
+Logged in Successfully
+ 2023-01-19 00:15:27 INFO  Menu:202 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 00:15:27 INFO  Menu:20 - welcome to admin panel
+ 2023-01-19 00:15:27 INFO  Menu:22 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 00:15:27 INFO  Menu:24 - 
+Enter your choice : 
+ 2023-01-19 00:16:34 INFO  Menu:190 - Enter Username : 
+ 2023-01-19 00:16:36 INFO  Menu:192 - Enter Password : 
+ 2023-01-19 00:16:39 INFO  Menu:206 - 
+Invalid Username or Password
+ 2023-01-19 00:22:38 INFO  Menu:171 - Enter Username : 
+ 2023-01-19 00:22:40 INFO  Menu:173 - Enter Password : 
+ 2023-01-19 00:22:42 INFO  Menu:188 - 
+Invalid Username or Password
+Exiting ... 
+ 2023-01-19 00:22:47 INFO  Menu:171 - Enter Username : 
+ 2023-01-19 00:22:52 INFO  Menu:173 - Enter Password : 
+ 2023-01-19 00:22:56 INFO  Menu:182 - 
+Logged in Successfully
+ 2023-01-19 00:22:56 INFO  Menu:184 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 00:22:56 INFO  Menu:20 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-19 00:22:56 INFO  Menu:21 - Welcome to Admin Panel
+ 2023-01-19 00:22:56 INFO  Menu:23 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 00:22:56 INFO  Menu:25 - 
+Enter your choice : 
+ 2023-01-19 00:23:01 INFO  Menu:109 - welcome to admin panel
+ 2023-01-19 00:23:01 INFO  Menu:111 - 
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-19 00:23:01 INFO  Menu:114 - 
+Enter your choice : 
+ 2023-01-19 00:25:03 INFO  Menu:169 - Enter Username : 
+ 2023-01-19 00:25:08 INFO  Menu:171 - Enter Password : 
+ 2023-01-19 00:25:11 INFO  Menu:186 - 
+Invalid Username or Password :( 
+Exiting ... 
+ 2023-01-19 00:25:15 INFO  Menu:169 - Enter Username : 
+ 2023-01-19 00:25:19 INFO  Menu:171 - Enter Password : 
+ 2023-01-19 00:25:23 INFO  Menu:180 - 
+Logged in Successfully
+ 2023-01-19 00:25:23 INFO  Menu:182 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 00:25:23 INFO  Menu:20 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-19 00:25:23 INFO  Menu:21 - Welcome to Admin Panel
+ 2023-01-19 00:25:23 INFO  Menu:23 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 00:25:23 INFO  Menu:25 - 
+Enter your choice : 
+ 2023-01-19 00:25:40 INFO  Menu:48 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 00:25:40 INFO  Menu:51 - 
+Enter your choice : 
+ 2023-01-19 00:37:48 INFO  Menu:167 - Enter Username : 
+ 2023-01-19 00:37:53 INFO  Menu:169 - Enter Password : 
+ 2023-01-19 00:37:58 INFO  Menu:178 - 
+Logged in Successfully
+ 2023-01-19 00:37:58 INFO  Menu:180 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 00:37:58 INFO  Menu:20 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-19 00:37:58 INFO  Menu:21 - Welcome to Admin Panel
+ 2023-01-19 00:37:58 INFO  Menu:23 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 00:37:58 INFO  Menu:25 - 
+Enter your choice : 
+ 2023-01-19 00:38:51 INFO  Menu:164 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-19 00:38:51 INFO  Menu:165 - Welcome to Admin Panel
+ 2023-01-19 00:38:51 INFO  Menu:166 - Enter Username : 
+ 2023-01-19 00:39:09 INFO  Menu:164 - ########## Welcome to Bus Reservation Management System #########
+ 2023-01-19 00:39:09 INFO  Menu:165 - Welcome to Admin Panel
+ 2023-01-19 00:39:09 INFO  Menu:166 - Enter Username : 
+ 2023-01-19 00:41:43 INFO  Menu:164 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 00:41:43 INFO  Menu:165 - Welcome to Admin Panel
+ 2023-01-19 00:41:43 INFO  Menu:166 - Enter Username : 
+ 2023-01-19 00:42:56 INFO  Menu:164 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 00:42:56 INFO  Menu:165 - 
+Welcome to Admin Panel
+ 2023-01-19 00:42:56 INFO  Menu:166 - 
+Enter Username : 
+ 2023-01-19 00:43:36 INFO  Menu:164 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 00:43:36 INFO  Menu:165 - 
+Welcome to Admin Panel
+ 2023-01-19 00:43:36 INFO  Menu:166 - 
+Enter Username : 
+ 2023-01-19 00:43:39 INFO  Menu:168 - Enter Password : 
+ 2023-01-19 00:43:43 INFO  Menu:177 - 
+Logged in Successfully
+ 2023-01-19 00:43:43 INFO  Menu:179 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 00:43:43 INFO  Menu:20 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 00:43:43 INFO  Menu:22 - 
+Enter your choice : 
+ 2023-01-19 00:48:10 INFO  Menu:166 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 00:48:10 INFO  Menu:167 - 
+Admin Login 
+ 2023-01-19 00:48:10 INFO  Menu:168 - 
+Enter Username : 
+ 2023-01-19 00:48:17 INFO  Menu:170 - Enter Password : 
+ 2023-01-19 00:48:23 INFO  Menu:179 - 
+Logged in Successfully
+ 2023-01-19 00:48:23 INFO  Menu:181 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 00:48:23 INFO  Menu:21 - 
+########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 #########
+ 2023-01-19 00:48:23 INFO  Menu:22 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 00:48:23 INFO  Menu:24 - 
+Enter your choice : 
+ 2023-01-19 00:51:09 INFO  Menu:167 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 00:51:09 INFO  Menu:168 - 
+Admin Login 
+ 2023-01-19 00:51:09 INFO  Menu:169 - 
+Enter Username : 
+ 2023-01-19 00:51:13 INFO  Menu:171 - Enter Password : 
+ 2023-01-19 00:51:17 INFO  Menu:179 - 
+Logged in Successfully
+ 2023-01-19 00:51:17 INFO  Menu:21 - 
+############## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 #############
+ 2023-01-19 00:51:17 INFO  Menu:22 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 00:51:17 INFO  Menu:23 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 00:51:17 INFO  Menu:25 - 
+Enter your choice : 
+ 2023-01-19 00:51:37 INFO  Menu:167 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 00:51:37 INFO  Menu:168 - 
+Admin Login 
+ 2023-01-19 00:51:37 INFO  Menu:169 - 
+Enter Username : 
+ 2023-01-19 00:51:41 INFO  Menu:171 - Enter Password : 
+ 2023-01-19 00:51:44 INFO  Menu:179 - 
+Logged in Successfull
+ 2023-01-19 00:51:44 INFO  Menu:21 - 
+############## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 #############
+ 2023-01-19 00:51:44 INFO  Menu:22 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 00:51:44 INFO  Menu:23 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 00:51:44 INFO  Menu:25 - 
+Enter your choice : 
+ 2023-01-19 00:51:54 INFO  Menu:48 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 00:51:54 INFO  Menu:50 - 
+Enter your choice : 
+ 2023-01-19 09:54:07 INFO  Menu:180 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 09:54:07 INFO  Menu:181 - 
+Admin Login 
+ 2023-01-19 09:54:07 INFO  Menu:182 - 
+Enter Username : 
+ 2023-01-19 09:54:18 INFO  Menu:184 - Enter Password : 
+ 2023-01-19 09:54:29 INFO  Menu:192 - 
+Logged in Successfull
+ 2023-01-19 09:54:29 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 09:54:29 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 09:54:29 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 09:54:29 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 09:54:57 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 09:54:57 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 10:03:07 INFO  Menu:197 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 10:03:07 INFO  Menu:198 - 
+Admin Login 
+ 2023-01-19 10:03:07 INFO  Menu:199 - 
+Enter Username : 
+ 2023-01-19 10:03:11 INFO  Menu:201 - Enter Password : 
+ 2023-01-19 10:03:16 INFO  Menu:209 - 
+Logged in Successfull
+ 2023-01-19 10:03:16 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 10:03:16 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 10:03:16 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 10:03:16 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 10:03:22 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 10:03:22 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 10:04:24 INFO  Menu:197 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 10:04:24 INFO  Menu:198 - 
+Admin Login 
+ 2023-01-19 10:04:24 INFO  Menu:199 - 
+Enter Username : 
+ 2023-01-19 10:04:29 INFO  Menu:201 - Enter Password : 
+ 2023-01-19 10:04:35 INFO  Menu:209 - 
+Logged in Successfull
+ 2023-01-19 10:04:35 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 10:04:35 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 10:04:35 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 10:04:35 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 10:04:38 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 10:04:38 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 10:08:15 INFO  Menu:197 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 10:08:15 INFO  Menu:198 - 
+Admin Login 
+ 2023-01-19 10:08:15 INFO  Menu:199 - 
+Enter Username : 
+ 2023-01-19 10:08:36 INFO  Menu:197 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 10:08:36 INFO  Menu:198 - 
+Admin Login 
+ 2023-01-19 10:08:36 INFO  Menu:199 - 
+Enter Username : 
+ 2023-01-19 10:08:41 INFO  Menu:201 - Enter Password : 
+ 2023-01-19 10:08:52 INFO  Menu:209 - 
+Logged in Successfull
+ 2023-01-19 10:08:52 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 10:08:52 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 10:08:52 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 10:08:52 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 10:09:02 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 10:09:02 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 10:09:18 INFO  Menu:197 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 10:09:18 INFO  Menu:198 - 
+Admin Login 
+ 2023-01-19 10:09:18 INFO  Menu:199 - 
+Enter Username : 
+ 2023-01-19 10:09:23 INFO  Menu:201 - Enter Password : 
+ 2023-01-19 10:09:28 INFO  Menu:214 - Invalid choice :( 
+Exiting ...
+ 2023-01-19 10:16:50 INFO  Menu:197 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 10:16:50 INFO  Menu:198 - 
+Admin Login 
+ 2023-01-19 10:16:50 INFO  Menu:199 - 
+Enter Username : 
+ 2023-01-19 10:19:29 INFO  Menu:197 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 10:19:29 INFO  Menu:198 - 
+Admin Login 
+ 2023-01-19 10:19:29 INFO  Menu:199 - 
+Enter Username : 
+ 2023-01-19 10:19:39 INFO  Menu:201 - Enter Password : 
+ 2023-01-19 10:20:00 INFO  Menu:209 - 
+Logged in Successfull
+ 2023-01-19 10:20:00 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 10:20:00 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 10:20:00 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 10:20:00 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 10:20:21 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 10:20:21 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 10:34:00 INFO  Menu:197 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 10:34:00 INFO  Menu:198 - 
+Admin Login 
+ 2023-01-19 10:34:00 INFO  Menu:199 - 
+Enter Username : 
+ 2023-01-19 10:34:06 INFO  Menu:201 - Enter Password : 
+ 2023-01-19 10:34:10 INFO  Menu:209 - 
+Logged in Successfull
+ 2023-01-19 10:34:10 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 10:34:10 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 10:34:10 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 10:34:10 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 10:34:17 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 10:34:17 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 11:05:31 INFO  Menu:222 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 11:05:31 INFO  Menu:223 - 
+Admin Login 
+ 2023-01-19 11:05:31 INFO  Menu:224 - 
+Enter Username : 
+ 2023-01-19 11:05:35 INFO  Menu:226 - Enter Password : 
+ 2023-01-19 11:05:39 INFO  Menu:234 - 
+Logged in Successfull
+ 2023-01-19 11:05:39 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 11:05:39 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 11:05:39 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 11:05:39 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 11:05:46 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 11:05:46 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 11:06:10 INFO  Menu:105 - Enter Route ID need to be Updated : 
+ 2023-01-19 11:06:19 INFO  Menu:109 - 
+Enter your choice : 
+ 2023-01-19 11:06:19 INFO  Menu:111 - 1. Update Route Id
+2. Update Bus Registration Number
+3. Update Source
+4. Update destination
+ 2023-01-19 11:06:35 INFO  Menu:128 - 
+Invalid choice :( 
+Exiting ...
+ 2023-01-19 11:18:00 INFO  Menu:228 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 11:18:00 INFO  Menu:229 - 
+Admin Login 
+ 2023-01-19 11:18:00 INFO  Menu:230 - 
+Enter Username : 
+ 2023-01-19 11:18:03 INFO  Menu:232 - Enter Password : 
+ 2023-01-19 11:18:08 INFO  Menu:240 - 
+Logged in Successfull
+ 2023-01-19 11:18:08 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 11:18:08 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 11:18:08 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 11:18:08 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 11:18:12 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 11:18:12 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 11:18:22 INFO  Menu:228 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 11:18:22 INFO  Menu:229 - 
+Admin Login 
+ 2023-01-19 11:18:22 INFO  Menu:230 - 
+Enter Username : 
+ 2023-01-19 11:18:25 INFO  Menu:232 - Enter Password : 
+ 2023-01-19 11:18:30 INFO  Menu:240 - 
+Logged in Successfull
+ 2023-01-19 11:18:30 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 11:18:30 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 11:18:30 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 11:18:30 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 11:18:32 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 11:18:32 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 11:19:36 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 11:19:36 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 11:19:36 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 11:19:36 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 11:19:38 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 11:19:38 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 11:20:37 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 11:20:37 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 11:20:37 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 11:20:37 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 11:20:40 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 11:20:40 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 11:22:39 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 11:22:39 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 11:22:39 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 11:22:39 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 11:22:41 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 11:22:41 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 11:22:45 INFO  Menu:105 - Enter Route ID need to be Updated : 
+ 2023-01-19 11:23:10 INFO  Menu:109 - 
+Enter your choice : 
+ 2023-01-19 11:23:10 INFO  Menu:111 - 1. Update Route Id
+2. Update Bus Registration Number
+3. Update Source
+4. Update destination
+ 2023-01-19 11:23:14 INFO  Menu:131 - Enter new Destination
+ 2023-01-19 11:23:26 INFO  Menu:136 - 
+Invalid choice :( 
+Exiting ...
+ 2023-01-19 11:24:24 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 11:24:24 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 11:24:24 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 11:24:24 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 11:24:29 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 11:24:29 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 11:24:29 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 11:24:29 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 11:24:31 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 11:24:31 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 11:24:34 INFO  Menu:105 - Enter Route ID need to be Updated : 
+ 2023-01-19 11:24:38 INFO  Menu:109 - 
+Enter your choice : 
+ 2023-01-19 11:24:38 INFO  Menu:111 - 1. Update Route Id
+2. Update Bus Registration Number
+3. Update Source
+4. Update destination
+ 2023-01-19 11:24:41 INFO  Menu:131 - Enter new Destination
+ 2023-01-19 11:24:44 INFO  Menu:136 - 
+Invalid choice :( 
+Exiting ...
+ 2023-01-19 11:35:15 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 11:35:15 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 11:35:15 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 11:35:15 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 11:35:18 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 11:35:18 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 11:35:22 INFO  Menu:105 - Enter Route ID need to be Updated : 
+ 2023-01-19 11:35:26 INFO  Menu:109 - 
+Enter your choice : 
+ 2023-01-19 11:35:26 INFO  Menu:111 - 1. Update Route Id
+2. Update Bus Registration Number
+3. Update Source
+4. Update destination
+ 2023-01-19 11:35:32 INFO  Menu:115 - Enter new Route Id :
+ 2023-01-19 11:43:14 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 11:43:14 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 11:43:14 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 11:43:14 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 11:43:16 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 11:43:17 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 12:06:36 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 12:06:36 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 12:06:36 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 12:06:36 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 12:07:05 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 12:07:05 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 12:07:13 INFO  Menu:97 - Enter Route ID : 
+ 2023-01-19 12:11:25 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 12:11:25 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 12:11:25 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 12:11:25 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 12:11:27 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 12:11:27 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 12:11:32 INFO  Menu:154 - Enter Route ID need to be deleted : 
+ 2023-01-19 12:24:46 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 12:24:46 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 12:24:46 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 12:24:46 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 12:24:48 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 12:24:48 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 12:25:08 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 12:25:08 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 12:25:08 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 12:25:08 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 12:25:10 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 12:25:10 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 12:25:13 INFO  Menu:108 - Enter Route ID need to be Updated : 
+ 2023-01-19 12:25:17 INFO  Menu:112 - 
+Enter your choice : 
+ 2023-01-19 12:25:17 INFO  Menu:114 - 1. Update Route Id
+2. Update Bus Registration Number
+3. Update Source
+4. Update destination
+ 2023-01-19 12:25:20 INFO  Menu:136 - Enter new Destination
+ 2023-01-19 14:01:30 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 14:01:30 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 14:01:30 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 14:01:30 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 14:01:37 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 14:01:37 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 14:13:12 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 14:13:12 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 14:13:12 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 14:13:12 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 14:13:16 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 14:13:16 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 14:13:18 INFO  Menu:165 - Enter Route id : 
+ 2023-01-19 14:13:22 INFO  Menu:167 - Enter Bus Registration Number : 
+ 2023-01-19 14:13:32 INFO  Menu:169 - Enter Source : 
+ 2023-01-19 14:13:41 INFO  Menu:171 - Enter Destination : 
+ 2023-01-19 14:14:22 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 14:14:22 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 14:14:22 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 14:14:22 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 14:14:27 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 14:14:27 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 14:14:32 INFO  Menu:154 - Enter Route ID need to be deleted : 
+ 2023-01-19 14:14:54 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 14:14:54 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 14:14:54 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 14:14:54 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 14:14:56 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 14:14:56 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 14:15:03 INFO  Menu:97 - Enter Route ID : 
+ 2023-01-19 14:15:37 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 14:15:37 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 14:15:37 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 14:15:37 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 14:15:39 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 14:15:39 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 14:16:08 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 14:16:08 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 14:16:08 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 14:16:08 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 14:16:10 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 14:16:10 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 14:16:26 INFO  Menu:108 - Enter Route ID need to be Updated : 
+ 2023-01-19 14:16:31 INFO  Menu:112 - 
+Enter your choice : 
+ 2023-01-19 14:16:31 INFO  Menu:114 - 1. Update Route Id
+2. Update Bus Registration Number
+3. Update Source
+4. Update destination
+ 2023-01-19 14:16:40 INFO  Menu:118 - Enter new Route Id :
+ 2023-01-19 16:13:34 INFO  Menu:247 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 16:13:34 INFO  Menu:248 - 
+Admin Login 
+ 2023-01-19 16:13:34 INFO  Menu:249 - 
+Enter Username : 
+ 2023-01-19 16:13:46 INFO  Menu:251 - Enter Password : 
+ 2023-01-19 16:34:29 INFO  Menu:247 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 16:34:29 INFO  Menu:248 - 
+Admin Login 
+ 2023-01-19 16:34:29 INFO  Menu:249 - 
+Enter Username : 
+ 2023-01-19 16:34:59 INFO  Menu:251 - Enter Password : 
+ 2023-01-19 16:35:04 INFO  Menu:259 - 
+Logged in Successfull
+ 2023-01-19 16:35:04 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 16:35:04 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 16:35:04 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 16:35:04 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 16:35:14 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 16:35:14 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 16:36:58 INFO  Menu:247 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 16:36:58 INFO  Menu:248 - 
+Admin Login 
+ 2023-01-19 16:36:58 INFO  Menu:249 - 
+Enter Username : 
+ 2023-01-19 16:37:02 INFO  Menu:251 - Enter Password : 
+ 2023-01-19 16:37:06 INFO  Menu:259 - 
+Logged in Successfull
+ 2023-01-19 16:37:06 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 16:37:06 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 16:37:06 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 16:37:06 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 16:37:16 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 16:37:16 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 16:37:26 INFO  Menu:165 - Enter Route id : 
+ 2023-01-19 16:46:23 INFO  Menu:247 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 16:46:23 INFO  Menu:248 - 
+Admin Login 
+ 2023-01-19 16:46:23 INFO  Menu:249 - 
+Enter Username : 
+ 2023-01-19 22:12:56 INFO  Menu:247 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 22:12:56 INFO  Menu:248 - 
+Admin Login 
+ 2023-01-19 22:12:56 INFO  Menu:249 - 
+Enter Username : 
+ 2023-01-19 22:13:01 INFO  Menu:251 - Enter Password : 
+ 2023-01-19 22:13:06 INFO  Menu:259 - 
+Logged in Successfull
+ 2023-01-19 22:13:06 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 22:13:06 INFO  Menu:24 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-19 22:13:06 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 22:13:06 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 22:13:13 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 22:13:13 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 22:13:15 INFO  Menu:165 - Enter Route id : 
+ 2023-01-19 22:30:45 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 22:30:45 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 22:30:45 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 22:30:51 INFO  Menu:26 - Enter Password : 
+ 2023-01-19 22:30:58 INFO  Menu:34 - 
+Logged in Successfull
+ 2023-01-19 22:30:58 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 22:30:58 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 22:30:58 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 22:30:58 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-19 22:31:04 INFO  Menu:50 - 
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-19 22:31:04 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-19 23:56:48 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 23:56:48 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 23:56:48 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 23:56:48 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 23:56:48 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 23:56:48 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 23:56:48 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 23:56:48 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 23:56:48 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 23:56:48 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 23:56:48 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 23:56:48 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 23:56:48 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 23:56:48 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 23:56:48 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 23:56:48 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 23:56:48 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 23:56:48 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 23:56:48 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 23:56:48 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 23:56:48 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 23:56:48 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 23:56:48 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 23:56:48 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 23:56:48 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 23:56:48 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 23:56:48 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 23:56:48 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 23:56:48 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 23:56:48 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 23:56:52 INFO  Menu:26 - Enter Password : 
+ 2023-01-19 23:56:58 INFO  Menu:39 - 
+Invalid choice :( 
+Exiting ...
+ 2023-01-19 23:57:01 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-19 23:57:01 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-19 23:57:01 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-19 23:57:03 INFO  Menu:26 - Enter Password : 
+ 2023-01-19 23:57:10 INFO  Menu:34 - 
+Logged in Successfull
+ 2023-01-19 23:57:10 INFO  Menu:25 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 23:57:10 INFO  Menu:26 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 23:57:10 INFO  Menu:27 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 23:57:10 INFO  Menu:29 - 
+Enter your choice : 
+ 2023-01-19 23:57:15 INFO  Menu:190 - 
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-19 23:57:15 INFO  Menu:192 - 
+Enter your choice : 
+ 2023-01-19 23:59:19 INFO  Menu:25 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 23:59:19 INFO  Menu:26 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 23:59:19 INFO  Menu:27 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 23:59:19 INFO  Menu:29 - 
+Enter your choice : 
+ 2023-01-19 23:59:22 INFO  Menu:190 - 
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-19 23:59:22 INFO  Menu:192 - 
+Enter your choice : 
+ 2023-01-19 23:59:27 INFO  Menu:237 - Enter Bus Registration Number : 
+ 2023-01-19 23:59:40 INFO  Menu:25 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-19 23:59:40 INFO  Menu:26 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-19 23:59:40 INFO  Menu:27 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-19 23:59:40 INFO  Menu:29 - 
+Enter your choice : 
+ 2023-01-19 23:59:42 INFO  Menu:190 - 
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-19 23:59:42 INFO  Menu:192 - 
+Enter your choice : 
+ 2023-01-19 23:59:47 INFO  Menu:307 - Enter Bus Registration Number : 
+ 2023-01-19 23:59:54 INFO  Menu:309 - Enter Boarding time : 
+ 2023-01-20 00:00:04 INFO  Menu:311 - Enter Arrival time : 
+ 2023-01-20 00:00:22 INFO  Menu:313 - Enter Ticket charge : 
+ 2023-01-20 00:00:35 INFO  Menu:25 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:00:35 INFO  Menu:26 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-20 00:00:35 INFO  Menu:27 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:00:35 INFO  Menu:29 - 
+Enter your choice : 
+ 2023-01-20 00:00:37 INFO  Menu:190 - 
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 00:00:38 INFO  Menu:192 - 
+Enter your choice : 
+ 2023-01-20 00:25:28 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-20 00:25:28 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 00:25:28 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 00:25:37 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-20 00:25:37 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 00:25:37 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 00:25:40 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 00:25:48 INFO  Menu:34 - 
+Logged in Successfull
+ 2023-01-20 00:25:48 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:25:48 INFO  Menu:24 - 
+Welcome , to Bus Reservation Management System
+ 2023-01-20 00:25:48 INFO  Menu:25 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:25:48 INFO  Menu:27 - 
+Enter your choice : 
+ 2023-01-20 00:26:04 INFO  Menu:188 - 
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 00:26:04 INFO  Menu:190 - 
+Enter your choice : 
+ 2023-01-20 00:26:08 INFO  Menu:294 - Enter Bus Registration Number to be deleted : 
+ 2023-01-20 00:26:14 INFO  Menu:297 - 1 row deleted
+ 2023-01-20 00:31:22 INFO  Menu:23 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-20 00:31:22 INFO  Menu:24 - 
+Admin Login 
+ 2023-01-20 00:31:22 INFO  Menu:25 - 
+Enter Username : 
+ 2023-01-20 00:31:26 INFO  Menu:27 - Enter Password : 
+ 2023-01-20 00:31:31 INFO  Menu:35 - 
+Logged in Successfull
+ 2023-01-20 00:31:31 INFO  Menu:25 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:31:31 INFO  Menu:26 - 
+Welcome null, to Bus Reservation Management System
+ 2023-01-20 00:31:31 INFO  Menu:27 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:31:31 INFO  Menu:29 - 
+Enter your choice : 
+ 2023-01-20 00:35:29 INFO  Menu:22 - ########## 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕭𝖚𝖘 𝕽𝖊𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖔𝖓 𝕸𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝕾𝖞𝖘𝖙𝖊𝖒 #########
+ 2023-01-20 00:35:29 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 00:35:29 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 00:35:32 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 00:35:36 INFO  Menu:35 - 
+Logged in Successfull
+ 2023-01-20 00:35:36 INFO  Menu:37 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:35:36 INFO  Menu:38 - 
+Welcome Roshan, to Bus Reservation Management System
+ 2023-01-20 00:35:36 INFO  Menu:21 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:35:36 INFO  Menu:23 - 
+Enter your choice : 
+ 2023-01-20 00:43:48 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 00:43:48 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 00:43:48 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 00:43:52 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 00:44:03 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 00:44:03 INFO  Menu:37 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:44:03 INFO  Menu:38 - 
+Hi, Roshanyou have all admin rights :)
+ 2023-01-20 00:44:03 INFO  Menu:21 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:44:03 INFO  Menu:23 - 
+Enter your choice : 
+ 2023-01-20 00:44:21 INFO  Menu:46 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 00:44:21 INFO  Menu:48 - 
+Enter your choice : 
+ 2023-01-20 00:47:50 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 00:47:50 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 00:47:50 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 00:48:13 INFO  Menu:23 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:48:13 INFO  Menu:25 - 
+Enter your choice : 
+ 2023-01-20 00:48:21 INFO  Menu:49 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 00:48:21 INFO  Menu:51 - 
+Enter your choice : 
+ 2023-01-20 00:48:30 INFO  Menu:88 - R001 BC-99 Shridi Delhi
+ 2023-01-20 00:48:30 INFO  Menu:88 - R003 AC-99 Delhi Mumbai
+ 2023-01-20 00:48:30 INFO  Menu:88 - R005 MH-74 Mumbai Delhi
+ 2023-01-20 00:48:30 INFO  Menu:88 - R007 DC-99 Delhi Shridi
+ 2023-01-20 00:48:30 INFO  Menu:88 - R008 DC-99 Delhi Shridi
+ 2023-01-20 00:48:30 INFO  Menu:88 - R009 DC-99 Delhi Shridi
+ 2023-01-20 00:48:30 INFO  Menu:23 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:48:30 INFO  Menu:25 - 
+Enter your choice : 
+ 2023-01-20 00:48:41 INFO  Menu:187 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 00:48:41 INFO  Menu:189 - 
+Enter your choice : 
+ 2023-01-20 00:48:47 INFO  Menu:304 - Enter Bus Registration Number : 
+ 2023-01-20 00:48:53 INFO  Menu:306 - Enter Boarding time : 
+ 2023-01-20 00:48:59 INFO  Menu:308 - Enter Arrival time : 
+ 2023-01-20 00:49:03 INFO  Menu:310 - Enter Ticket charge : 
+ 2023-01-20 00:49:12 INFO  Menu:321 - 1 row inserted into database
+ 2023-01-20 00:49:12 INFO  Menu:23 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:49:12 INFO  Menu:25 - 
+Enter your choice : 
+ 2023-01-20 00:49:54 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 00:49:54 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 00:49:54 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 00:50:03 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 00:50:08 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 00:50:08 INFO  Menu:37 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:50:08 INFO  Menu:38 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 00:50:08 INFO  Menu:23 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:50:08 INFO  Menu:25 - 
+Enter your choice : 
+ 2023-01-20 00:50:20 INFO  Menu:49 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 00:50:20 INFO  Menu:51 - 
+Enter your choice : 
+ 2023-01-20 00:50:23 INFO  Menu:88 - R001 BC-99 Shridi Delhi
+ 2023-01-20 00:50:23 INFO  Menu:88 - R003 AC-99 Delhi Mumbai
+ 2023-01-20 00:50:23 INFO  Menu:88 - R005 MH-74 Mumbai Delhi
+ 2023-01-20 00:50:23 INFO  Menu:88 - R007 DC-99 Delhi Shridi
+ 2023-01-20 00:50:23 INFO  Menu:88 - R008 DC-99 Delhi Shridi
+ 2023-01-20 00:50:23 INFO  Menu:88 - R009 DC-99 Delhi Shridi
+ 2023-01-20 00:50:23 INFO  Menu:23 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:50:23 INFO  Menu:25 - 
+Enter your choice : 
+ 2023-01-20 00:54:08 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 00:54:08 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 00:54:08 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 00:54:12 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 00:54:13 INFO  Menu:41 - 
+Invalid choice :( 
+Exiting ...
+ 2023-01-20 00:54:18 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 00:54:18 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 00:54:18 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 00:54:21 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 00:54:25 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 00:54:25 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 00:54:25 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:54:25 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:54:25 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 00:54:32 INFO  Menu:50 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 00:54:32 INFO  Menu:52 - 
+Enter your choice : 
+ 2023-01-20 00:54:38 INFO  Menu:89 - R001 BC-99 Shridi Delhi
+ 2023-01-20 00:54:38 INFO  Menu:89 - R003 AC-99 Delhi Mumbai
+ 2023-01-20 00:54:38 INFO  Menu:89 - R005 MH-74 Mumbai Delhi
+ 2023-01-20 00:54:38 INFO  Menu:89 - R007 DC-99 Delhi Shridi
+ 2023-01-20 00:54:38 INFO  Menu:89 - R008 DC-99 Delhi Shridi
+ 2023-01-20 00:54:38 INFO  Menu:89 - R009 DC-99 Delhi Shridi
+ 2023-01-20 00:54:46 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:54:46 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:54:46 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 00:54:51 INFO  Menu:189 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 00:54:51 INFO  Menu:191 - 
+Enter your choice : 
+ 2023-01-20 00:55:04 INFO  Menu:228 - bc-99 08:00:00 17:00:00 500
+ 2023-01-20 00:55:04 INFO  Menu:228 - cv-85 11:00:00 21:10:00 450
+ 2023-01-20 00:57:49 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:57:49 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:57:49 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 00:57:53 INFO  Menu:51 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 00:57:53 INFO  Menu:53 - 
+Enter your choice : 
+ 2023-01-20 00:57:56 INFO  Menu:90 - R001 BC-99 Shridi Delhi
+ 2023-01-20 00:57:56 INFO  Menu:90 - R003 AC-99 Delhi Mumbai
+ 2023-01-20 00:57:56 INFO  Menu:90 - R005 MH-74 Mumbai Delhi
+ 2023-01-20 00:57:56 INFO  Menu:90 - R007 DC-99 Delhi Shridi
+ 2023-01-20 00:57:56 INFO  Menu:90 - R008 DC-99 Delhi Shridi
+ 2023-01-20 00:57:56 INFO  Menu:90 - R009 DC-99 Delhi Shridi
+ 2023-01-20 00:58:06 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:58:06 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:58:06 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 00:58:12 INFO  Menu:190 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 00:58:12 INFO  Menu:192 - 
+Enter your choice : 
+ 2023-01-20 00:58:14 INFO  Menu:213 - Exiting ...
+ 2023-01-20 00:58:59 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:58:59 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:58:59 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 00:59:02 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 00:59:02 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 00:59:04 INFO  Menu:92 - R001 BC-99 Shridi Delhi
+ 2023-01-20 00:59:04 INFO  Menu:92 - R003 AC-99 Delhi Mumbai
+ 2023-01-20 00:59:04 INFO  Menu:92 - R005 MH-74 Mumbai Delhi
+ 2023-01-20 00:59:04 INFO  Menu:92 - R007 DC-99 Delhi Shridi
+ 2023-01-20 00:59:04 INFO  Menu:92 - R008 DC-99 Delhi Shridi
+ 2023-01-20 00:59:04 INFO  Menu:92 - R009 DC-99 Delhi Shridi
+ 2023-01-20 00:59:04 INFO  Menu:33 - Do you want to continue (Y/N)?
+ 2023-01-20 00:59:08 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:59:08 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:59:08 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 00:59:11 INFO  Menu:192 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 00:59:11 INFO  Menu:194 - 
+Enter your choice : 
+ 2023-01-20 00:59:11 INFO  Menu:231 - bc-99 08:00:00 17:00:00 500
+ 2023-01-20 00:59:11 INFO  Menu:231 - cv-85 11:00:00 21:10:00 450
+ 2023-01-20 00:59:11 INFO  Menu:37 - Do you want to continue (Y/N)?
+ 2023-01-20 00:59:15 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:59:15 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:59:15 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 00:59:17 INFO  Menu:192 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 00:59:17 INFO  Menu:194 - 
+Enter your choice : 
+ 2023-01-20 00:59:18 INFO  Menu:231 - bc-99 08:00:00 17:00:00 500
+ 2023-01-20 00:59:18 INFO  Menu:231 - cv-85 11:00:00 21:10:00 450
+ 2023-01-20 00:59:18 INFO  Menu:37 - Do you want to continue (Y/N)?
+ 2023-01-20 00:59:46 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:59:46 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:59:46 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 00:59:49 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 00:59:49 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 00:59:55 INFO  Menu:92 - R001 BC-99 Shridi Delhi
+ 2023-01-20 00:59:55 INFO  Menu:92 - R003 AC-99 Delhi Mumbai
+ 2023-01-20 00:59:55 INFO  Menu:92 - R005 MH-74 Mumbai Delhi
+ 2023-01-20 00:59:55 INFO  Menu:92 - R007 DC-99 Delhi Shridi
+ 2023-01-20 00:59:55 INFO  Menu:92 - R008 DC-99 Delhi Shridi
+ 2023-01-20 00:59:55 INFO  Menu:92 - R009 DC-99 Delhi Shridi
+ 2023-01-20 00:59:55 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 00:59:57 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 00:59:57 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 00:59:57 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:00:06 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 01:00:06 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 01:00:07 INFO  Menu:169 - Enter Route id : 
+ 2023-01-20 01:00:13 INFO  Menu:171 - Enter Bus Registration Number : 
+ 2023-01-20 01:00:19 INFO  Menu:173 - Enter Source : 
+ 2023-01-20 01:00:23 INFO  Menu:175 - Enter Destination : 
+ 2023-01-20 01:00:25 INFO  Menu:186 - 1 row inserted into database
+ 2023-01-20 01:00:25 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:00:30 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:00:30 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:00:30 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:00:40 INFO  Menu:40 - Exiting ...
+ 2023-01-20 01:00:50 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:00:50 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:00:50 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:00:52 INFO  Menu:44 - 
+Invalid choice :( 
+Exiting ...
+ 2023-01-20 01:01:40 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:01:40 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:01:40 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:01:43 INFO  Menu:44 - 
+Invalid choice
+ 2023-01-20 01:01:43 INFO  Menu:45 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:01:48 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:01:48 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:01:48 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:01:50 INFO  Menu:44 - 
+Invalid choice
+ 2023-01-20 01:01:50 INFO  Menu:45 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:01:54 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:01:54 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:01:54 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:02:50 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:02:50 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:02:50 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:02:52 INFO  Menu:192 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:02:52 INFO  Menu:194 - 
+Enter your choice : 
+ 2023-01-20 01:02:54 INFO  Menu:215 - Exiting ...
+ 2023-01-20 01:09:01 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:09:01 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:09:01 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:09:03 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 01:09:03 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 01:09:07 INFO  Menu:90 - [Route [routeId=R001, busRegistrationNumber=BC-99, source=Shridi, destination=Delhi], Route [routeId=R003, busRegistrationNumber=AC-99, source=Delhi, destination=Mumbai], Route [routeId=R005, busRegistrationNumber=MH-74, source=Mumbai, destination=Delhi], Route [routeId=R007, busRegistrationNumber=DC-99, source=Delhi, destination=Shridi], Route [routeId=R008, busRegistrationNumber=DC-99, source=Delhi, destination=Shridi], Route [routeId=R009, busRegistrationNumber=DC-99, source=Delhi, destination=Shridi], Route [routeId=R011, busRegistrationNumber=dg-78, source=Ert, destination=opu]]
+ 2023-01-20 01:09:07 INFO  Menu:93 - R001 BC-99 Shridi Delhi
+ 2023-01-20 01:09:07 INFO  Menu:93 - R003 AC-99 Delhi Mumbai
+ 2023-01-20 01:09:07 INFO  Menu:93 - R005 MH-74 Mumbai Delhi
+ 2023-01-20 01:09:07 INFO  Menu:93 - R007 DC-99 Delhi Shridi
+ 2023-01-20 01:09:07 INFO  Menu:93 - R008 DC-99 Delhi Shridi
+ 2023-01-20 01:09:07 INFO  Menu:93 - R009 DC-99 Delhi Shridi
+ 2023-01-20 01:09:07 INFO  Menu:93 - R011 dg-78 Ert opu
+ 2023-01-20 01:09:07 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:10:44 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:10:44 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:10:44 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:10:47 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 01:10:47 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 01:10:52 INFO  Menu:90 - [Route [routeId=R001, busRegistrationNumber=BC-99, source=Shridi, destination=Delhi], Route [routeId=R003, busRegistrationNumber=AC-99, source=Delhi, destination=Mumbai], Route [routeId=R005, busRegistrationNumber=MH-74, source=Mumbai, destination=Delhi], Route [routeId=R007, busRegistrationNumber=DC-99, source=Delhi, destination=Shridi], Route [routeId=R008, busRegistrationNumber=DC-99, source=Delhi, destination=Shridi], Route [routeId=R009, busRegistrationNumber=DC-99, source=Delhi, destination=Shridi], Route [routeId=R011, busRegistrationNumber=dg-78, source=Ert, destination=opu]]
+ 2023-01-20 01:10:52 INFO  Menu:93 - R001 BC-99 Shridi Delhi
+ 2023-01-20 01:10:52 INFO  Menu:93 - R003 AC-99 Delhi Mumbai
+ 2023-01-20 01:10:52 INFO  Menu:93 - R005 MH-74 Mumbai Delhi
+ 2023-01-20 01:10:52 INFO  Menu:93 - R007 DC-99 Delhi Shridi
+ 2023-01-20 01:10:52 INFO  Menu:93 - R008 DC-99 Delhi Shridi
+ 2023-01-20 01:10:52 INFO  Menu:93 - R009 DC-99 Delhi Shridi
+ 2023-01-20 01:10:52 INFO  Menu:93 - R011 dg-78 Ert opu
+ 2023-01-20 01:10:52 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:10:54 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:10:54 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:10:54 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:10:56 INFO  Menu:193 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:10:56 INFO  Menu:195 - 
+Enter your choice : 
+ 2023-01-20 01:11:02 INFO  Menu:230 - []
+ 2023-01-20 01:11:02 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:13:18 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:13:18 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:13:18 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:13:20 INFO  Menu:193 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:13:20 INFO  Menu:195 - 
+Enter your choice : 
+ 2023-01-20 01:13:27 INFO  Menu:231 - No routes found :(
+Please add new routes :)
+ 2023-01-20 01:13:27 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:31:07 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:31:07 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:31:07 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:31:10 INFO  Menu:196 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:31:10 INFO  Menu:198 - 
+Enter your choice : 
+ 2023-01-20 01:31:17 INFO  Menu:234 - No trips found :(
+Please add new trips :)
+ 2023-01-20 01:31:17 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:31:21 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:31:21 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:31:21 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:31:23 INFO  Menu:196 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:31:23 INFO  Menu:198 - 
+Enter your choice : 
+ 2023-01-20 01:31:25 INFO  Menu:249 - No trips found :(
+Please add new trips :)
+ 2023-01-20 01:31:25 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:31:29 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:31:29 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:31:29 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:31:31 INFO  Menu:196 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:31:31 INFO  Menu:198 - 
+Enter your choice : 
+ 2023-01-20 01:31:37 INFO  Menu:276 - No trips found :(
+Please add new trips :)
+ 2023-01-20 01:31:37 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:31:42 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:31:42 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:31:42 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:31:46 INFO  Menu:196 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:31:46 INFO  Menu:198 - 
+Enter your choice : 
+ 2023-01-20 01:31:51 INFO  Menu:329 - No trips found :(
+Please add new trips :)
+ 2023-01-20 01:31:51 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:31:53 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:31:53 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:31:53 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:31:55 INFO  Menu:196 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:31:55 INFO  Menu:198 - 
+Enter your choice : 
+ 2023-01-20 01:31:57 INFO  Menu:353 - Enter Bus Registration Number : 
+ 2023-01-20 01:32:01 INFO  Menu:355 - Enter Boarding time : 
+ 2023-01-20 01:32:05 INFO  Menu:357 - Enter Arrival time : 
+ 2023-01-20 01:32:11 INFO  Menu:359 - Enter Ticket charge : 
+ 2023-01-20 01:32:15 INFO  Menu:370 - 1 row inserted into database
+ 2023-01-20 01:32:15 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:32:18 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:32:18 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:32:18 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:32:19 INFO  Menu:196 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:32:19 INFO  Menu:198 - 
+Enter your choice : 
+ 2023-01-20 01:32:22 INFO  Menu:238 - fg-99 11:25:00 23:00:00 750
+ 2023-01-20 01:32:22 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:32:27 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:32:27 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:32:27 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:32:28 INFO  Menu:196 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:32:28 INFO  Menu:198 - 
+Enter your choice : 
+ 2023-01-20 01:32:46 INFO  Menu:252 - Enter Bus Registration Number : 
+ 2023-01-20 01:32:50 INFO  Menu:265 - Invalid Bus registration Number
+ 2023-01-20 01:32:50 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:32:54 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:32:54 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:32:54 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:32:59 INFO  Menu:196 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:32:59 INFO  Menu:198 - 
+Enter your choice : 
+ 2023-01-20 01:33:01 INFO  Menu:252 - Enter Bus Registration Number : 
+ 2023-01-20 01:33:13 INFO  Menu:258 - fg-99 11:25:00 23:00:00 750
+ 2023-01-20 01:33:13 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:33:16 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:33:16 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:33:16 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:33:18 INFO  Menu:196 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 01:33:18 INFO  Menu:198 - 
+Enter your choice : 
+ 2023-01-20 01:33:20 INFO  Menu:278 - Enter Bus Registration Number to be updated : 
+ 2023-01-20 01:33:25 INFO  Menu:282 - 
+Enter your choice : 
+ 2023-01-20 01:33:25 INFO  Menu:284 - 1. Update Bus Registration Number
+2. Update Boarding Time
+3. Update Arrival Time
+4. Update Ticket Charge
+ 2023-01-20 01:33:53 INFO  Menu:289 - Enter new Bus Registration Number :
+ 2023-01-20 01:52:21 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:52:21 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:52:21 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:52:23 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 01:52:23 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 01:52:30 INFO  Menu:186 - Enter Route ID need to be deleted : 
+ 2023-01-20 01:52:33 INFO  Menu:196 - Invalid Route Id
+ 2023-01-20 01:52:33 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:52:34 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:52:34 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:52:34 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:52:37 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 01:52:37 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 01:52:38 INFO  Menu:132 - Enter Route ID need to be Updated : 
+ 2023-01-20 01:52:40 INFO  Menu:136 - 
+Enter your choice : 
+ 2023-01-20 01:52:40 INFO  Menu:138 - 1. Update Route Id
+2. Update Bus Registration Number
+3. Update Source
+4. Update destination
+ 2023-01-20 01:52:46 INFO  Menu:143 - Enter new Route Id :
+ 2023-01-20 01:52:53 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:52:53 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:52:53 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:52:55 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 01:52:55 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 01:52:59 INFO  Menu:108 - Enter Route ID : 
+ 2023-01-20 01:53:01 INFO  Menu:119 - Invalid Bus registration Number
+ 2023-01-20 01:53:01 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:53:11 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:53:11 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:53:11 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:53:12 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 01:53:12 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 01:53:13 INFO  Menu:186 - Enter Route ID need to be deleted : 
+ 2023-01-20 01:53:15 INFO  Menu:196 - Invalid Route Id
+ 2023-01-20 01:53:15 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 01:57:16 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 01:57:16 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 01:57:16 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 01:57:18 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 01:57:18 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 01:57:21 INFO  Menu:133 - Enter Route ID need to be Updated : 
+ 2023-01-20 01:57:27 INFO  Menu:182 - Invalid Route Id
+ 2023-01-20 01:57:27 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:00:09 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:00:09 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:00:09 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:00:11 INFO  Menu:239 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 02:00:11 INFO  Menu:241 - 
+Enter your choice : 
+ 2023-01-20 02:00:16 INFO  Menu:321 - Enter Bus Registration Number to be updated : 
+ 2023-01-20 02:00:20 INFO  Menu:371 - Invalid Bus Registration Number
+ 2023-01-20 02:00:20 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:00:24 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:00:24 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:00:24 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:00:29 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 02:00:29 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 02:00:35 INFO  Menu:108 - Enter Route ID : 
+ 2023-01-20 02:00:43 INFO  Menu:119 - Invalid Route Id
+ 2023-01-20 02:00:43 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:00:46 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:00:46 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:00:46 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:00:48 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 02:00:48 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 02:00:48 INFO  Menu:133 - Enter Route ID need to be Updated : 
+ 2023-01-20 02:00:51 INFO  Menu:182 - Invalid Route Id
+ 2023-01-20 02:00:51 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:03:34 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:03:34 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:03:34 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:03:36 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 02:03:36 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 02:03:39 INFO  Menu:93 - RouteID BusRegistrationNumber Source Destination
+ 2023-01-20 02:03:39 INFO  Menu:95 - R001 BC-99 Shridi Delhi
+ 2023-01-20 02:03:39 INFO  Menu:95 - R003 AC-99 Delhi Mumbai
+ 2023-01-20 02:03:39 INFO  Menu:95 - R005 MH-74 Mumbai Delhi
+ 2023-01-20 02:03:39 INFO  Menu:95 - R007 DC-99 Delhi Shridi
+ 2023-01-20 02:03:39 INFO  Menu:95 - R008 DC-99 Delhi Shridi
+ 2023-01-20 02:03:39 INFO  Menu:95 - R009 DC-99 Delhi Shridi
+ 2023-01-20 02:03:39 INFO  Menu:95 - R011 dg-78 Ert opu
+ 2023-01-20 02:03:39 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:04:18 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:04:18 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:04:18 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:04:22 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 02:04:22 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 02:04:25 INFO  Menu:93 - RouteID BusRegistrationNumber Source Destination
+ 2023-01-20 02:04:25 INFO  Menu:95 - R001		BC-99		Shridi		Delhi
+ 2023-01-20 02:04:25 INFO  Menu:95 - R003		AC-99		Delhi		Mumbai
+ 2023-01-20 02:04:25 INFO  Menu:95 - R005		MH-74		Mumbai		Delhi
+ 2023-01-20 02:04:25 INFO  Menu:95 - R007		DC-99		Delhi		Shridi
+ 2023-01-20 02:04:25 INFO  Menu:95 - R008		DC-99		Delhi		Shridi
+ 2023-01-20 02:04:25 INFO  Menu:95 - R009		DC-99		Delhi		Shridi
+ 2023-01-20 02:04:25 INFO  Menu:95 - R011		dg-78		Ert		opu
+ 2023-01-20 02:04:25 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:04:50 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:04:50 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:04:50 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:04:52 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 02:04:52 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 02:04:54 INFO  Menu:93 - RouteID  BusRegistrationNumber  Source  Destination
+ 2023-01-20 02:04:54 INFO  Menu:95 - R001		BC-99		Shridi		Delhi
+ 2023-01-20 02:04:54 INFO  Menu:95 - R003		AC-99		Delhi		Mumbai
+ 2023-01-20 02:04:54 INFO  Menu:95 - R005		MH-74		Mumbai		Delhi
+ 2023-01-20 02:04:54 INFO  Menu:95 - R007		DC-99		Delhi		Shridi
+ 2023-01-20 02:04:54 INFO  Menu:95 - R008		DC-99		Delhi		Shridi
+ 2023-01-20 02:04:54 INFO  Menu:95 - R009		DC-99		Delhi		Shridi
+ 2023-01-20 02:04:54 INFO  Menu:95 - R011		dg-78		Ert		opu
+ 2023-01-20 02:04:54 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:05:30 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:05:30 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:05:30 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:05:32 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 02:05:32 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 02:05:34 INFO  Menu:93 - RouteID  BusRegistrationNumber  Source  Destination
+ 2023-01-20 02:05:34 INFO  Menu:95 - R001		BC-99		Shridi		Delhi
+ 2023-01-20 02:05:34 INFO  Menu:95 - R003		AC-99		Delhi		Mumbai
+ 2023-01-20 02:05:34 INFO  Menu:95 - R005		MH-74		Mumbai		Delhi
+ 2023-01-20 02:05:34 INFO  Menu:95 - R007		DC-99		Delhi		Shridi
+ 2023-01-20 02:05:34 INFO  Menu:95 - R008		DC-99		Delhi		Shridi
+ 2023-01-20 02:05:34 INFO  Menu:95 - R009		DC-99		Delhi		Shridi
+ 2023-01-20 02:05:34 INFO  Menu:95 - R011		dg-78		Ert		opu
+ 2023-01-20 02:05:34 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:05:37 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:05:37 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:05:37 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:05:40 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 02:05:40 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 02:05:42 INFO  Menu:109 - Enter Route ID : 
+ 2023-01-20 02:05:47 INFO  Menu:114 - RouteID  BusRegistrationNumber  Source  Destination
+ 2023-01-20 02:05:47 INFO  Menu:115 - R003 AC-99 Delhi Mumbai
+ 2023-01-20 02:05:47 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:06:20 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:06:20 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:06:20 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:06:21 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 02:06:21 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 02:06:23 INFO  Menu:109 - Enter Route ID : 
+ 2023-01-20 02:06:26 INFO  Menu:114 - RouteID  BusRegistrationNumber  Source  Destination
+ 2023-01-20 02:06:26 INFO  Menu:115 - R003		AC-99		Delhi		Mumbai
+ 2023-01-20 02:06:26 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:07:36 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:07:36 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:07:36 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:07:38 INFO  Menu:241 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 02:07:38 INFO  Menu:243 - 
+Enter your choice : 
+ 2023-01-20 02:07:40 INFO  Menu:281 - BusRegistrationNumber  BoardingTime  ArrivalTime  TicketCharge
+ 2023-01-20 02:07:40 INFO  Menu:284 - fg-99 11:25:00 23:00:00 750
+ 2023-01-20 02:07:40 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:08:26 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:08:26 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:08:26 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:08:27 INFO  Menu:241 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 02:08:27 INFO  Menu:243 - 
+Enter your choice : 
+ 2023-01-20 02:08:31 INFO  Menu:281 - BusRegistrationNumber BoardingTime ArrivalTime TicketCharge
+ 2023-01-20 02:08:31 INFO  Menu:284 - fg-99		11:25:00		23:00:00		750
+ 2023-01-20 02:08:31 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:09:13 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:09:13 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:09:13 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:09:15 INFO  Menu:241 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 02:09:15 INFO  Menu:243 - 
+Enter your choice : 
+ 2023-01-20 02:09:20 INFO  Menu:281 - BusRegNum BoardingTime ArrivalTime TicketCharge
+ 2023-01-20 02:09:20 INFO  Menu:284 - fg-99	11:25:00	23:00:00	750
+ 2023-01-20 02:09:20 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:10:07 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:10:07 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:10:07 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:10:10 INFO  Menu:241 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 02:10:10 INFO  Menu:243 - 
+Enter your choice : 
+ 2023-01-20 02:10:13 INFO  Menu:281 - BusRegNum BoardingTime ArrivalTime TicketCharge
+ 2023-01-20 02:10:13 INFO  Menu:284 - fg-99	 11:25:00	23:00:00	750
+ 2023-01-20 02:10:13 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 02:10:19 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 02:10:19 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 02:10:19 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 02:10:23 INFO  Menu:241 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 02:10:23 INFO  Menu:243 - 
+Enter your choice : 
+ 2023-01-20 02:10:23 INFO  Menu:298 - Enter Bus Registration Number : 
+ 2023-01-20 02:10:27 INFO  Menu:304 - BusRegNum BoardingTime ArrivalTime TicketCharge
+ 2023-01-20 02:10:27 INFO  Menu:305 - fg-99	 11:25:00	23:00:00	750
+ 2023-01-20 02:10:27 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 03:02:59 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 03:02:59 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 03:02:59 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 03:03:03 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 03:03:03 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 03:03:05 INFO  Menu:93 - RouteID  BusRegistrationNumber  Source  Destination
+ 2023-01-20 03:03:05 INFO  Menu:95 - R001		BC-99		Shridi		Delhi
+ 2023-01-20 03:03:05 INFO  Menu:95 - R003		AC-99		Delhi		Mumbai
+ 2023-01-20 03:03:05 INFO  Menu:95 - R005		MH-74		Mumbai		Delhi
+ 2023-01-20 03:03:05 INFO  Menu:95 - R007		DC-99		Delhi		Shridi
+ 2023-01-20 03:03:05 INFO  Menu:95 - R008		DC-99		Delhi		Shridi
+ 2023-01-20 03:03:05 INFO  Menu:95 - R009		DC-99		Delhi		Shridi
+ 2023-01-20 03:03:05 INFO  Menu:95 - R011		dg-78		Ert		opu
+ 2023-01-20 03:03:05 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 03:03:08 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 03:03:08 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 03:03:08 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 03:03:11 INFO  Menu:240 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 03:03:11 INFO  Menu:242 - 
+Enter your choice : 
+ 2023-01-20 03:03:17 INFO  Menu:280 - BusRegNum BoardingTime ArrivalTime TicketCharge
+ 2023-01-20 03:03:17 INFO  Menu:282 - fg-99	 11:25:00	23:00:00	750
+ 2023-01-20 03:03:17 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 03:27:03 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 03:27:03 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 03:27:03 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 03:27:08 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 03:27:08 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 03:27:08 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 03:27:11 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 03:27:11 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 03:27:16 INFO  Menu:93 - RouteID  BusRegistrationNumber  Source  Destination
+ 2023-01-20 03:27:16 INFO  Menu:95 - R001		BC-99		Shridi		Delhi
+ 2023-01-20 03:27:16 INFO  Menu:95 - R003		AC-99		Delhi		Mumbai
+ 2023-01-20 03:27:16 INFO  Menu:95 - R005		MH-74		Mumbai		Delhi
+ 2023-01-20 03:27:16 INFO  Menu:95 - R007		DC-99		Delhi		Shridi
+ 2023-01-20 03:27:16 INFO  Menu:95 - R008		DC-99		Delhi		Shridi
+ 2023-01-20 03:27:16 INFO  Menu:95 - R009		DC-99		Delhi		Shridi
+ 2023-01-20 03:27:16 INFO  Menu:95 - R011		dg-78		Ert		opu
+ 2023-01-20 03:27:16 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 03:27:18 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 03:27:18 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 03:27:18 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 03:27:20 INFO  Menu:240 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 03:27:20 INFO  Menu:242 - 
+Enter your choice : 
+ 2023-01-20 03:27:21 INFO  Menu:280 - BusRegNum BoardingTime ArrivalTime TicketCharge
+ 2023-01-20 03:27:21 INFO  Menu:282 - fg-99	 11:25:00	23:00:00	750
+ 2023-01-20 03:27:21 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 03:27:25 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 03:27:25 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 03:27:25 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 03:27:26 INFO  Menu:40 - Exiting ...
+ 2023-01-20 08:41:14 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 08:41:14 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 08:41:14 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 08:45:19 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 08:45:19 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 08:45:19 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 08:46:03 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 08:46:03 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 08:46:03 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 08:46:43 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 08:46:43 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 08:46:43 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 08:48:36 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 08:48:36 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 08:48:36 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 08:50:20 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 08:50:20 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 08:50:20 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 10:24:58 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 10:24:58 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 10:24:58 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 10:25:06 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 10:25:06 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 10:25:06 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 10:25:09 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 10:25:18 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 10:25:18 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 10:25:18 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 10:25:18 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 10:25:18 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 10:25:31 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 10:25:31 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 10:25:34 INFO  Menu:93 - RouteID  BusRegistrationNumber  Source  Destination
+ 2023-01-20 10:25:34 INFO  Menu:95 - R001		AL-7896		MUMBAI		SHRIDI
+ 2023-01-20 10:25:34 INFO  Menu:95 - R003		DC-1245		MUMBAI		SHRIDI
+ 2023-01-20 10:25:34 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 10:25:40 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 10:25:40 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 10:25:40 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 10:25:43 INFO  Menu:240 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 10:25:43 INFO  Menu:242 - 
+Enter your choice : 
+ 2023-01-20 10:25:46 INFO  Menu:280 - BusRegNum BoardingTime ArrivalTime TicketCharge
+ 2023-01-20 10:25:46 INFO  Menu:282 - AL-7896	 08:35:00	11:30:00	250
+ 2023-01-20 10:25:46 INFO  Menu:282 - BC-1234	 10:15:00	14:30:00	300
+ 2023-01-20 10:25:46 INFO  Menu:282 - DC-1245	 19:00:00	18:30:00	500
+ 2023-01-20 10:25:46 INFO  Menu:282 - RL-1234	 09:35:00	10:30:00	100
+ 2023-01-20 10:25:46 INFO  Menu:282 - RL-5678	 05:35:00	10:30:00	350
+ 2023-01-20 10:25:46 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 10:34:11 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 10:34:11 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 10:34:11 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 10:34:15 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 10:34:18 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 10:34:18 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 10:34:18 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 10:34:18 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 10:34:18 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 10:38:52 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 10:38:52 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 10:38:52 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 10:39:10 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 10:39:15 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 10:39:15 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 10:39:15 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 10:39:15 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 10:39:15 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 10:39:22 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 10:39:22 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 10:39:22 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 10:39:25 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 10:39:29 INFO  Menu:41 - 
+Invalid choice
+ 2023-01-20 10:39:34 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 10:39:34 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 10:39:34 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 10:39:37 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 10:39:40 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 10:39:40 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 10:39:40 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 10:39:40 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 10:39:40 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 10:41:52 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 10:41:52 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 10:41:52 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 10:41:53 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 10:41:55 INFO  Menu:41 - Invalid Username or Password or User have no admin right
+Exiting ...
+ 2023-01-20 10:42:37 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 10:42:37 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 10:42:37 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 10:42:40 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 10:42:43 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 10:42:43 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 10:42:43 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 10:42:43 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 10:42:43 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 10:42:50 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 10:42:50 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 10:43:07 INFO  Menu:93 - RouteID  BusRegistrationNumber  Source  Destination
+ 2023-01-20 10:43:07 INFO  Menu:95 - R001		AL-7896		MUMBAI		SHRIDI
+ 2023-01-20 10:43:07 INFO  Menu:95 - R003		DC-1245		MUMBAI		SHRIDI
+ 2023-01-20 10:43:07 INFO  Menu:95 - R008		DC-99		Delhi		Shridi
+ 2023-01-20 10:43:07 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 10:43:09 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 10:43:09 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 10:43:09 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 10:43:11 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 10:43:11 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 10:43:12 INFO  Menu:217 - Enter Route ID need to be deleted : 
+ 2023-01-20 10:43:16 INFO  Menu:219 - Enter Bus Registration Number : 
+ 2023-01-20 10:43:26 INFO  Menu:221 - Enter Source : 
+ 2023-01-20 10:43:30 INFO  Menu:223 - Enter Destination : 
+ 2023-01-20 10:43:59 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 10:43:59 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 10:43:59 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 10:44:22 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 10:44:26 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 10:44:26 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 10:44:26 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 10:44:26 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 10:44:26 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 10:44:30 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 10:44:30 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 10:44:31 INFO  Menu:217 - Enter Route ID need to be deleted : 
+ 2023-01-20 10:45:36 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 10:45:36 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 10:45:36 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 10:45:41 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 10:45:44 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 10:45:44 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 10:45:44 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 10:45:44 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 10:45:44 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 10:45:47 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 10:45:47 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 10:45:48 INFO  Menu:217 - Enter Route ID need to be deleted : 
+ 2023-01-20 10:47:43 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 10:47:43 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 10:47:43 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 11:00:51 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 11:00:51 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 11:00:51 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 11:00:53 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 11:00:57 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 11:00:57 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 11:00:57 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:00:57 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:00:57 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:00:58 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:00:58 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:01:00 INFO  Menu:217 - Enter Route ID : 
+ 2023-01-20 11:01:03 INFO  Menu:219 - Enter Bus Registration Number : 
+ 2023-01-20 11:01:09 INFO  Menu:221 - Enter Source : 
+ 2023-01-20 11:01:15 INFO  Menu:223 - Enter Destination : 
+ 2023-01-20 11:03:35 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 11:03:35 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 11:03:35 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 11:03:39 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 11:03:43 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 11:03:43 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 11:03:43 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:03:43 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:03:43 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:03:44 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:03:44 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:03:45 INFO  Menu:217 - Enter Route ID : 
+ 2023-01-20 11:03:54 INFO  Menu:219 - Enter Bus Registration Number : 
+ 2023-01-20 11:04:00 INFO  Menu:221 - Enter Source : 
+ 2023-01-20 11:04:03 INFO  Menu:223 - Enter Destination : 
+ 2023-01-20 11:05:49 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 11:05:49 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 11:05:49 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 11:05:55 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 11:05:59 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 11:05:59 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 11:05:59 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:05:59 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:05:59 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:06:01 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:06:01 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:06:02 INFO  Menu:217 - Enter Route ID : 
+ 2023-01-20 11:06:05 INFO  Menu:219 - Enter Bus Registration Number : 
+ 2023-01-20 11:06:10 INFO  Menu:221 - Enter Source : 
+ 2023-01-20 11:06:14 INFO  Menu:223 - Enter Destination : 
+ 2023-01-20 11:06:42 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 11:06:42 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 11:06:42 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 11:06:45 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 11:06:50 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 11:06:50 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 11:06:50 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:06:50 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:06:50 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:06:59 INFO  Menu:240 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 11:06:59 INFO  Menu:242 - 
+Enter your choice : 
+ 2023-01-20 11:07:00 INFO  Menu:406 - Enter Bus Registration Number : 
+ 2023-01-20 11:07:05 INFO  Menu:408 - Enter Boarding time : 
+ 2023-01-20 11:07:10 INFO  Menu:410 - Enter Arrival time : 
+ 2023-01-20 11:07:15 INFO  Menu:412 - Enter Ticket charge : 
+ 2023-01-20 11:07:18 INFO  Menu:423 - 1 row inserted into database
+ 2023-01-20 11:07:18 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:07:24 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:07:24 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:07:24 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:07:26 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:07:26 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:07:27 INFO  Menu:217 - Enter Route ID : 
+ 2023-01-20 11:07:33 INFO  Menu:219 - Enter Bus Registration Number : 
+ 2023-01-20 11:07:38 INFO  Menu:221 - Enter Source : 
+ 2023-01-20 11:07:46 INFO  Menu:223 - Enter Destination : 
+ 2023-01-20 11:12:27 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 11:12:27 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 11:12:27 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 11:12:30 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 11:12:34 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 11:12:34 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 11:12:34 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:12:34 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:12:34 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:12:36 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:12:36 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:12:37 INFO  Menu:217 - Enter Route ID : 
+ 2023-01-20 11:12:41 INFO  Menu:219 - Enter Bus Registration Number : 
+ 2023-01-20 11:12:47 INFO  Menu:221 - Enter Source : 
+ 2023-01-20 11:12:50 INFO  Menu:223 - Enter Destination : 
+ 2023-01-20 11:12:52 INFO  Menu:234 - 1 row inserted into database
+ 2023-01-20 11:12:52 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:12:56 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:12:56 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:12:56 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:12:57 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:12:57 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:13:00 INFO  Menu:93 - RouteID  BusRegistrationNumber  Source  Destination
+ 2023-01-20 11:13:00 INFO  Menu:95 - R001		AL-7896		MUMBAI		SHRIDI
+ 2023-01-20 11:13:00 INFO  Menu:95 - R002		BC-1234		NEW DELHI		SHRIDI
+ 2023-01-20 11:13:00 INFO  Menu:95 - R003		DC-1245		MUMBAI		SHRIDI
+ 2023-01-20 11:13:00 INFO  Menu:95 - R005		kli-996		dli		jyg
+ 2023-01-20 11:13:00 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:13:06 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:13:06 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:13:06 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:13:07 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:13:07 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:13:08 INFO  Menu:109 - Enter Route ID : 
+ 2023-01-20 11:13:11 INFO  Menu:121 - Invalid Route Id
+ 2023-01-20 11:13:11 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:13:20 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:13:20 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:13:20 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:13:21 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:13:21 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:13:21 INFO  Menu:109 - Enter Route ID : 
+ 2023-01-20 11:13:23 INFO  Menu:114 - RouteID  BusRegistrationNumber  Source  Destination
+ 2023-01-20 11:13:23 INFO  Menu:115 - R005		kli-996		dli		jyg
+ 2023-01-20 11:13:23 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:13:25 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:13:25 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:13:25 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:13:27 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:13:27 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:13:31 INFO  Menu:197 - Enter Route ID need to be deleted : 
+ 2023-01-20 11:13:34 INFO  Menu:202 - 1 row deleted
+ 2023-01-20 11:13:34 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:13:36 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:13:36 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:13:36 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:13:39 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:13:39 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:13:43 INFO  Menu:93 - RouteID  BusRegistrationNumber  Source  Destination
+ 2023-01-20 11:13:43 INFO  Menu:95 - R001		AL-7896		MUMBAI		SHRIDI
+ 2023-01-20 11:13:43 INFO  Menu:95 - R002		BC-1234		NEW DELHI		SHRIDI
+ 2023-01-20 11:13:43 INFO  Menu:95 - R003		DC-1245		MUMBAI		SHRIDI
+ 2023-01-20 11:13:43 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:13:56 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:13:56 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:13:56 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:13:59 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:13:59 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:14:01 INFO  Menu:135 - Enter Route ID need to be deleted : 
+ 2023-01-20 11:14:11 INFO  Menu:183 - Invalid Route Id
+ 2023-01-20 11:14:11 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:14:13 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:14:13 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:14:13 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:14:14 INFO  Menu:53 - 
+############## 𝓡𝓸𝓾𝓽𝓮 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Route
+2. Delete Route
+3. Update Route 
+4. Get Particular Route 
+5. Get All Routes 
+6. Exit
+ 2023-01-20 11:14:14 INFO  Menu:55 - 
+Enter your choice : 
+ 2023-01-20 11:14:16 INFO  Menu:135 - Enter Route ID need to be deleted : 
+ 2023-01-20 11:14:28 INFO  Menu:141 - 
+Enter your choice : 
+ 2023-01-20 11:14:28 INFO  Menu:143 - 1. Update Route Id
+2. Update Bus Registration Number
+3. Update Source
+4. Update destination
+ 2023-01-20 11:14:31 INFO  Menu:168 - Enter new Destination
+ 2023-01-20 11:14:37 INFO  Menu:172 - 1 row updated
+ 2023-01-20 11:14:37 INFO  Menu:33 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:16:35 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 11:16:35 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 11:16:35 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 11:16:38 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 11:16:41 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 11:16:41 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 11:16:41 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:16:41 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:16:41 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:16:42 INFO  Menu:240 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 11:16:42 INFO  Menu:242 - 
+Enter your choice : 
+ 2023-01-20 11:16:44 INFO  Menu:280 - BusRegNum BoardingTime ArrivalTime TicketCharge
+ 2023-01-20 11:16:44 INFO  Menu:282 - AL-7896	 08:35:00	11:30:00	250
+ 2023-01-20 11:16:44 INFO  Menu:282 - BC-1234	 10:15:00	14:30:00	300
+ 2023-01-20 11:16:44 INFO  Menu:282 - DC-1245	 19:00:00	18:30:00	500
+ 2023-01-20 11:16:44 INFO  Menu:282 - ML-7896	 07:35:00	11:30:00	250
+ 2023-01-20 11:16:44 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:16:48 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:16:48 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:16:48 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:16:49 INFO  Menu:240 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 11:16:49 INFO  Menu:242 - 
+Enter your choice : 
+ 2023-01-20 11:16:54 INFO  Menu:296 - Enter Bus Registration Number : 
+ 2023-01-20 11:16:58 INFO  Menu:301 - BusRegNum BoardingTime ArrivalTime TicketCharge
+ 2023-01-20 11:16:58 INFO  Menu:302 - ML-7896	 07:35:00	11:30:00	250
+ 2023-01-20 11:16:58 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:17:01 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:17:01 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:17:01 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:17:02 INFO  Menu:240 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 11:17:02 INFO  Menu:242 - 
+Enter your choice : 
+ 2023-01-20 11:17:10 INFO  Menu:385 - Enter Bus Registration Number to be deleted : 
+ 2023-01-20 11:17:14 INFO  Menu:391 - 1 row deleted
+ 2023-01-20 11:17:14 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:17:18 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:17:18 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:17:18 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:17:19 INFO  Menu:240 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 11:17:19 INFO  Menu:242 - 
+Enter your choice : 
+ 2023-01-20 11:17:27 INFO  Menu:406 - Enter Bus Registration Number : 
+ 2023-01-20 11:17:32 INFO  Menu:408 - Enter Boarding time : 
+ 2023-01-20 11:17:38 INFO  Menu:410 - Enter Arrival time : 
+ 2023-01-20 11:17:46 INFO  Menu:412 - Enter Ticket charge : 
+ 2023-01-20 11:17:50 INFO  Menu:423 - 1 row inserted into database
+ 2023-01-20 11:17:50 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:17:56 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:17:56 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:17:56 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:17:58 INFO  Menu:240 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 11:17:58 INFO  Menu:242 - 
+Enter your choice : 
+ 2023-01-20 11:17:59 INFO  Menu:322 - Enter Bus Registration Number to be updated : 
+ 2023-01-20 11:18:05 INFO  Menu:329 - 
+Enter your choice : 
+ 2023-01-20 11:18:05 INFO  Menu:331 - 1. Update Bus Registration Number
+2. Update Boarding Time
+3. Update Arrival Time
+4. Update Ticket Charge
+ 2023-01-20 11:18:11 INFO  Menu:356 - Enter new Destination
+ 2023-01-20 11:18:25 INFO  Menu:360 - 1 row updated
+ 2023-01-20 11:18:25 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:18:28 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:18:28 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:18:28 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:18:30 INFO  Menu:240 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 11:18:30 INFO  Menu:242 - 
+Enter your choice : 
+ 2023-01-20 11:18:30 INFO  Menu:280 - BusRegNum BoardingTime ArrivalTime TicketCharge
+ 2023-01-20 11:18:30 INFO  Menu:282 - AL-7896	 08:35:00	11:30:00	250
+ 2023-01-20 11:18:30 INFO  Menu:282 - BC-1234	 10:15:00	14:30:00	300
+ 2023-01-20 11:18:30 INFO  Menu:282 - DC-1245	 19:00:00	18:30:00	500
+ 2023-01-20 11:18:30 INFO  Menu:282 - er-852	 12:15:00	18:00:00	300
+ 2023-01-20 11:18:30 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 2023-01-20 11:26:12 INFO  Menu:22 - ########## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓑𝓾𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓪𝓽𝓲𝓸𝓷 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 #########
+ 2023-01-20 11:26:12 INFO  Menu:23 - 
+Admin Login 
+ 2023-01-20 11:26:12 INFO  Menu:24 - 
+Enter Username : 
+ 2023-01-20 11:26:14 INFO  Menu:26 - Enter Password : 
+ 2023-01-20 11:26:18 INFO  Menu:35 - 
+𝓛𝓸𝓰𝓰𝓮𝓭 𝓲𝓷 𝓢𝓾𝓬𝓬𝓮𝓼𝓼𝓯𝓾𝓵𝓵
+ 2023-01-20 11:26:18 INFO  Menu:37 - 
+Hi, Roshan you have all admin rights :)
+ 2023-01-20 11:26:18 INFO  Menu:23 - 
+################# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓐𝓭𝓶𝓲𝓷 𝓟𝓪𝓷𝓮𝓵 ################
+ 2023-01-20 11:26:18 INFO  Menu:24 - 
+1. Route Management
+2. Trip Management
+3. Exit
+ 2023-01-20 11:26:18 INFO  Menu:26 - 
+Enter your choice : 
+ 2023-01-20 11:26:20 INFO  Menu:240 - 
+############## 𝓣𝓻𝓲𝓹 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 #############
+1. Add Trip
+2. Delete Trip
+3. Update Trip 
+4. Get Particular Trip 
+5. Get All Trips 
+6. Exit
+ 2023-01-20 11:26:20 INFO  Menu:242 - 
+Enter your choice : 
+ 2023-01-20 11:26:21 INFO  Menu:280 - BusRegNum BoardingTime ArrivalTime TicketCharge
+ 2023-01-20 11:26:21 INFO  Menu:282 - AL-7896	 08:35:00	11:30:00	250
+ 2023-01-20 11:26:21 INFO  Menu:282 - BC-1234	 10:15:00	14:30:00	300
+ 2023-01-20 11:26:21 INFO  Menu:282 - DC-1245	 19:00:00	18:30:00	500
+ 2023-01-20 11:26:21 INFO  Menu:282 - er-852	 12:15:00	18:00:00	300
+ 2023-01-20 11:26:21 INFO  Menu:37 - 
+Do you want to continue (Y/N)?
+ 

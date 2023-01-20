@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: getlost
+Build-Jdk: 17.0.5
+Class-Path: lib/mysql-connector-j-8.0.31.jar lib/protobuf-java-3.19.4.ja
+ r lib/log4j-1.2.17.jar lib/junit-4.12.jar lib/hamcrest-core-1.3.jar
+Main-Class: com.revature.app.App
+Created-By: Maven Integration for Eclipse
+
